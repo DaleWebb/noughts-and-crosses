@@ -1,0 +1,10 @@
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\bin\Debug\Game.xml
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\obj\Debug\Game.vbproj.GenerateResource.Cache
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\obj\Debug\Game.exe
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\obj\Debug\Game.xml
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\Game\Game\obj\Debug\Game.pdb

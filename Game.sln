@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Basic Express 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Game", "Game\Game.vbproj", "{F3469657-BBCE-46A0-9F48-6AF0DA38FEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3469657-BBCE-46A0-9F48-6AF0DA38FEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3469657-BBCE-46A0-9F48-6AF0DA38FEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3469657-BBCE-46A0-9F48-6AF0DA38FEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3469657-BBCE-46A0-9F48-6AF0DA38FEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
